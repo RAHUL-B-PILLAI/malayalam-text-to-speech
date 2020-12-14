@@ -1,4 +1,4 @@
-# malayalam-text-to-speech
+# Malayalam Text To Speech
 
 ## System Requirements:
 * Python interpreter
